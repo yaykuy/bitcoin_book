@@ -21,4 +21,4 @@ Buena lectura,
 
 Fernando Ulrich
 
-1 Aquellos que tienen poco conocimiento en economía, podrá ser un poco difícil acompañar este capitulo, aunque tengamos nos esforzado para dejarlo lo más comprensible posible.
+*1 Aquellos que tienen poco conocimiento en economía, podrá ser un poco difícil acompañar este capitulo, aunque tengamos nos esforzado para dejarlo lo más comprensible posible.*
